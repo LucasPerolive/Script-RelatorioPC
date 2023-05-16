@@ -14,5 +14,7 @@
 git clone https://github.com/LucasPerolive/Script-RelatorioPC.git
 cd Script_RelatorioPC
 chmod +x RelatorioMaquina.sh
+chmod +x RelatorioUsuario.sh
 ./RelatorioMaquina.sh
+./RelatorioUsuario.sh
 ```
