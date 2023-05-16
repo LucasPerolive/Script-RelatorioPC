@@ -11,7 +11,7 @@
 
 ## Execute estes comandos:
 ```
-git clone https://github.com/LucasPerolive/Script_RelatorioPC.git
+git clone https://github.com/LucasPerolive/Script-RelatorioPC.git
 cd Script_RelatorioPC
 chmod +x RelatorioMaquina.sh
 ./RelatorioMaquina.sh
