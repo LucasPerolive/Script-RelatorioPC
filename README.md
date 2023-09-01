@@ -10,10 +10,10 @@
 8 - Partições que existem;
 
 ## Cria um relatorio do Usuario contendo:
-1 - Nome do Usuario;
-2 - Id do Usuario;
-3 - Nome ou Descrição;
-4 - Total de espaço usado no /home;
+1 - Nome do Usuario;<br>
+2 - Id do Usuario;<br>
+3 - Nome ou Descrição;<br>
+4 - Total de espaço usado no /home;<br>
 5 - Ultimo Login;
 
 
