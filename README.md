@@ -1,12 +1,12 @@
 # Script_RelatorioPC
 ## Cria um relatorio do Pc contendo:
-1 - Nome da maquina;
-2 - Data/Hora da execução;
-3 - Desde quando a maquina está ativa;
-4 - Versão do Kernel;
-5 - Quantidade de CPU;
-6 - Modelo da CPU;
-7 - Quantidade de Memória;
+1 - Nome da maquina;<br>
+2 - Data/Hora da execução;<br>
+3 - Desde quando a maquina está ativa;<br>
+4 - Versão do Kernel;<br>
+5 - Quantidade de CPU;<br>
+6 - Modelo da CPU;<br>
+7 - Quantidade de Memória;<br>
 8 - Partições que existem;
 
 ## Cria um relatorio do Usuario contendo:
